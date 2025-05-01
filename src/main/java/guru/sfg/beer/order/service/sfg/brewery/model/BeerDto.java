@@ -1,7 +1,6 @@
-package guru.sfg.beer.order.service.web.model;
+package guru.sfg.beer.order.service.sfg.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
